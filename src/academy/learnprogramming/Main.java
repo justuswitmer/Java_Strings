@@ -31,5 +31,6 @@ public class Main {
         double doubleNumber = 120.470d;
         lastString = lastString + doubleNumber;
         System.out.println(lastString);
+
     }
 }
